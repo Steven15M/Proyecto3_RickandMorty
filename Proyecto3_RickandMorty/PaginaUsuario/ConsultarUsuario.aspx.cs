@@ -16,7 +16,7 @@ namespace Proyecto3_RickandMorty.PaginaUsuario
         {
 
         }
-
+        //Logica de la API
         protected void Button1_Click(object sender, EventArgs e)
         {
             Random random = new Random();
